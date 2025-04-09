@@ -1,0 +1,23 @@
+[
+    {
+      "name": "Amina",
+      "age": 28,
+      "profession": "Software Developer",
+      "opinions": [
+        "The UI is clean and easy to navigate.",
+        "Would love a dark mode option.",
+        "Performance is decent but could be faster."
+      ]
+    },
+    {
+      "name": "Carlos",
+      "age": 34,
+      "profession": "Teacher",
+      "opinions": [
+        "App is intuitive.",
+        "Too many steps to sign up.",
+        "Help section is very useful."
+      ]
+    }
+  ]
+  
