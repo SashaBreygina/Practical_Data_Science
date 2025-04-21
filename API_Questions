@@ -1,0 +1,17 @@
+What is an API call (answer in your own words)?
+  An API, which stands for Application Programming Interface, is a protocol to connect you to any sort of software. An API call is when one piece of software sends a request to another software or service to ask for an action or data and gets a response back. 
+
+What is an example we discussed to create an API call locally?
+  An example to create an API call locally is by using FastAPI
+
+What is an example we discussed to create an API call on the cloud? 
+  An example to create an API call on the cloud is by using AWS API Gateway
+
+What is the difference between FastAPI and creating API from AWS Gateway?
+  FastAPI is a Python web framework used for building APIs while AWS Gateway is a managed service used to create and manage APIs at scale.
+
+In your own words after watching the video, what are the main steps to create an API call on AWS Gateway?
+  The first step is to create a new API, followed by defining resources and methods under the API that will handle specific types of requests. Once everything is set, you deploy the API to a stage so that it becomes publicly accessible via an endpoint. This endpoint is what is used in the API call.
+
+Professionally in the industry, how does developers ship product from one team to another? What's the usage of API here?
+  Back-end teams build and document APIs that expose functionality and data, while the front-end teams use the
